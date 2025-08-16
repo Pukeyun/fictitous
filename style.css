@@ -1,0 +1,40 @@
+.header-section {
+    background-color: #a4ff89b8;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5em;
+}
+.header-section h1 {
+    color: #000000;
+    margin: 0;
+}
+.menu-section h2 {
+    color: #000000;
+    
+}
+.text-underline {
+    display: inline-block;
+    border-bottom: 2px solid #000;
+    padding-bottom: 3px;
+}
+.menu-details  {
+    border: #000000 solid 2px;
+    margin: 2px;
+    padding: 0%;
+}
+.menu-list li {
+    color: #000000;
+    padding: 0px ;
+    margin: 0px;
+    
+}
+.menu-list p {
+    color: #000000;
+    padding: 0px ;
+    margin: 10px;
+}
+.footer {
+    background-color: #a4ff89b8;
+    padding: 20px;
+    text-align: center;
+}
